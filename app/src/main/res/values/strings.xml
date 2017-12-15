@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProximateTest</string>
+
+    <!-- Login-->
+    <string name="correo">Correo</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">Ingresar</string>
+
+    <!-- User Data-->
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="photo_txt">Foto tomada en:</string>
+
+</resources>
